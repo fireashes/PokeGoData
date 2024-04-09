@@ -1,2 +1,2 @@
 # pokego
-pokemon go data
+Pokemon Go Data
