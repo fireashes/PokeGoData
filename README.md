@@ -1,2 +1,1 @@
-# pokego
-Pokemon Go Data
+# pokego Pokemon Go Data
